@@ -1,4 +1,4 @@
-# Pharmaceutical-Supply-Chain-Insights-Data-Analysis-Visualization
+# Pharmaceutical Supply Chain Insights : Data Analysis & Visualization
 
 Technologies Used - Excel, Python, SQL (MySQL), Power BI
 
