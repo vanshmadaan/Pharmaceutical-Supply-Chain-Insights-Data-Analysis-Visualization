@@ -1,0 +1,9 @@
+supplier_id,name,contact_info,delivery_time_avg,reliability_score
+200,MediSupply Co.,+1-846-655-7594,3,0.95
+201,Global Pharma Distributors,+1-381-507-8452,8,0.78
+202,HealthBridge Suppliers,+1-307-353-8111,9,0.82
+203,Evergreen Medical Supplies,+1-765-412-2780,5,0.9
+204,Pioneer Drug Distributors,+1-200-176-4110,4,0.75
+205,Elite Pharma Solutions,+1-358-779-9287,4,0.75
+206,WellnessMed Supplies,+1-360-305-4696,6,0.76
+207,Guardian Healthcare Logistics,+1-934-723-3496,3,0.94

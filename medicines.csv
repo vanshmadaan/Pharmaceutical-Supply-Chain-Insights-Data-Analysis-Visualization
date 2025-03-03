@@ -1,0 +1,51 @@
+medicine_id,name,category,manufacturer,shelf_life,cost_price,selling_price
+100,Amoxicillin,Blood Pressure,Merck,57.0,61.49,81.45
+101,Ibuprofen,Cardiac,Bayer,60.0,16.07,18.55
+102,Metformin,Respiratory,Eli Lilly,21.0,51.96,77.86
+103,Aspirin,Mental Health,Sanofi,36.0,73.96,91.44
+104,Losartan,Digestive,Johnson & Johnson,52.0,64.37,71.64
+105,Atorvastatin,Painkiller,Sanofi,44.0,84.35,103.48
+106,Omeprazole,Mental Health,GSK,41.0,34.65,49.51
+107,Levothyroxine,Digestive,GSK,49.0,32.88,47.46
+108,Simvastatin,Antibiotic,Johnson & Johnson,58.0,10.22,12.47
+109,Albuterol,Digestive,GSK,16.0,96.59,111.54
+110,Gabapentin,Respiratory,Bayer,39.0,29.54,36.98
+111,Sertraline,Blood Pressure,Eli Lilly,29.0,19.54,24.15
+112,Citalopram,Cardiac,Novartis,33.0,44.14,49.87
+113,Escitalopram,Diabetes,Eli Lilly,33.0,55.44,62.65
+114,Metoprolol,Antibiotic,Pfizer,18.0,34.3,41.84
+115,Amlodipine,Digestive,Pfizer,19.0,7.16,10.69
+116,Hydrochlorothiazide,Diabetes,Eli Lilly,41.0,36.14,50.04
+117,Furosemide,Antibiotic,Sanofi,24.0,87.6,129.0
+118,Prednisone,Diabetes,Novartis,22.0,62.28,89.72
+119,Warfarin,Mental Health,Johnson & Johnson,53.0,39.44,44.89
+120,Duloxetine,Cardiac,Novartis,17.0,30.1,37.13
+121,Tamsulosin,Cardiac,Merck,15.0,89.4,104.87
+122,Finasteride,Respiratory,Novartis,58.0,25.17,35.75
+123,Insulin Glargine,Blood Pressure,Sanofi,53.0,26.99,32.67
+124,Insulin Aspart,Painkiller,Johnson & Johnson,12.0,84.94,112.13
+125,Clopidogrel,Blood Pressure,Eli Lilly,16.0,56.42,81.45
+126,Montelukast,Diabetes,Bayer,45.0,82.1,108.34
+127,Fluoxetine,Digestive,Pfizer,,59.85,82.37
+128,Doxycycline,Cardiac,Johnson & Johnson,39.0,33.23,
+129,Bupropion,Diabetes,Eli Lilly,16.0,33.27,48.51
+130,Ciprofloxacin,Blood Pressure,Sanofi,17.0,76.47,85.36
+131,Tramadol,Painkiller,Johnson & Johnson,,92.29,117.03
+132,Ranitidine,Cardiac,Novartis,20.0,67.5,81.51
+133,Azithromycin,Respiratory,Merck,53.0,9.95,11.22
+134,Lisinopril,Diabetes,Johnson & Johnson,,95.15,127.06
+135,Hydralazine,Antibiotic,Merck,40.0,15.15,19.56
+136,Verapamil,Cardiac,Bayer,52.0,49.58,
+137,Methotrexate,Diabetes,Sanofi,51.0,56.49,68.11
+138,Mirtazapine,Digestive,Bayer,17.0,61.13,80.97
+139,Paroxetine,Painkiller,Merck,60.0,80.44,91.12
+140,Olanzapine,Painkiller,Sanofi,34.0,21.0,28.55
+141,Risperidone,Respiratory,GSK,,59.06,85.44
+142,Quetiapine,Blood Pressure,Novartis,53.0,64.93,71.86
+143,Aripiprazole,Painkiller,Bayer,47.0,25.75,
+144,Donepezil,Mental Health,Pfizer,54.0,21.09,31.27
+145,Memantine,Mental Health,Bayer,45.0,87.06,113.52
+146,Venlafaxine,Blood Pressure,Sanofi,30.0,99.02,109.13
+147,Carvedilol,Antibiotic,Bayer,43.0,54.68,66.13
+148,Spironolactone,Respiratory,Johnson & Johnson,27.0,80.49,113.53
+149,Propranolol,Digestive,Johnson & Johnson,45.0,22.82,30.1
